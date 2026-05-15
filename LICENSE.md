@@ -1,4 +1,4 @@
-# 
+# ultimate MEV sniper bot | trailing-stop + gas-optimization is the best MEV sniper bot, featuring trailing-stop and gas-optimization. Fast, smart, and optimized for MEV and sniper
 
 
 
